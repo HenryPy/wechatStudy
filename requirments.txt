@@ -1,0 +1,6 @@
+python==3.9
+pycharm==2022.2
+pyserial==3.5
+pymysql
+xlwt
+微信开发者工具

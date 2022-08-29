@@ -1,0 +1,39 @@
+page{
+  background-color: #fff;
+  
+  padding-left: 35rpx;
+  padding-right: 35rpx;
+}
+
+.root {
+  padding: 10rpx 30rpx;
+}
+
+.num{
+  /* margin-right: 8rpx; */
+  padding: 5rpx;
+}
+
+/* .settle6{
+  margin-top: 5px; 
+  display: flex;
+  flex-direction:column;
+  font-size: 16px;
+  text-shadow: 1px 1px #ff000dad;
+} */
+.settle1{
+  margin-top: 20px;
+  font-size: 20px; 
+  border-radius: 25rpx;
+  opacity: 0.8;
+}
+
+.shuaxin{
+  padding: 10rpx  20rpx;
+  margin-right: 20rpx;
+}
+
+.shuaxin0{
+    margin-left: 20rpx;
+    margin-top: 10rpx;
+  }

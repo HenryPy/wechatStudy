@@ -1,0 +1,24 @@
+<view class="root" scroll-y="true" scroll-top="{{scrollTop}}">
+    <text><text class="num">1\t</text>2021/9/30 9:50:40\t\t\t二站机械手放料失败\n 
+        <text class="num">2\t</text> 2021/9/30 10:52:33 \t\t一站流水线急停\n
+        <text class="num">3\t</text> 2021/9/30 11:43:26\t\t 安全门报警\n
+        <text class="num">4\t</text> 2021/9/30 14:10:42 \t\t五站模板丢失报警\n
+        <text class="num">5\t</text> 2021/9/30 15:06:10 \t\t三站电脑蓝屏\n
+        <text class="num">6\t</text> 2021/9/30 16:40:40\t\t 三站机械手取料点报警\n
+        <text class="num">7\t</text> 2021/9/30 17:55:25 \t\t一站机械手重启\n
+        <text class="num">8\t</text> 2021/9/30 18:33:32 \t\t二站测试机气缸漏气报警\n
+        <text class="num">9\t</text> 2021/9/30 20:14:21 \t\t三站电脑蓝屏\n
+        <text class="num">10\t</text> 2021/9/30 21:40:30 \t\t安全门报警\n
+    </text>
+</view>
+
+<!-- 刷新按钮设置 -->
+
+<button  class="settle1" type="primary" size="mini" bindtap="show_data">点击刷新</button>
+<!-- style为空格 换行设置 -->
+    <view class="shuaxin0" style="white-space:pre-wrap">
+    <!-- <view class="shuaxin0"> -->
+        {{j5}}
+    </view> 
+
+
